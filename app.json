@@ -2,7 +2,7 @@
   "name": "Node Unblocker",
   "description": "基于Node-Unblocker的Web代理",
   "image": "heroku/nodejs",
-  "repository": "",
+  "repository": "https://github.com/dualcore1thread/heroku-node-proxy/",
   "keywords": ["nodejs", "GFW-bypass"],
   "website": ""
 }
