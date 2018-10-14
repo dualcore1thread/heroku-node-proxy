@@ -4,5 +4,5 @@
   "image": "heroku/nodejs",
   "repository": "https://github.com/dualcore1thread/heroku-node-proxy/",
   "keywords": ["nodejs", "GFW-bypass"],
-  "website": ""
+  "website": "https://github.com/dualcore1thread"
 }
